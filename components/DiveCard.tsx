@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Dive } from '../types';
 import { MapPin, Calendar, Clock, ArrowDown } from 'lucide-react';
 
