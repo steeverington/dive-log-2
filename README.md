@@ -1,11 +1,35 @@
-<div align="center">
+# DeepLog - Scuba Dive Logger
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A beautiful, ocean-themed scuba dive logger inspired by Ste's Log. Built with React, TypeScript, and Tailwind CSS.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Dashboard**: View all your logged dives in a chronologically sorted list.
+- **Add Dive**: Log new dives with an interactive, fluid UI for depth and temperature inputs.
+- **Stats**: Visualize your diving statistics including total dives, time underwater, and deepest dive.
+- **PWA Support**: Installable on mobile devices with an immersive full-screen experience.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- React 18+
+- TypeScript
+- Tailwind CSS
+- Vite
+- Lucide React Icons
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production:
+   ```bash
+   npm run build
+   ```
